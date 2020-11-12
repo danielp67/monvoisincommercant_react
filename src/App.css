@@ -1,38 +1,37 @@
-.App {
-  text-align: center;
+
+/***************/
+/******MAP*****/
+/***************/
+body{
+  background-color: rgb(104, 102, 100);
+  color :white;
+  height: 100%;
+  width: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+*, *::before,*::after{
+  box-sizing: border-box;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#mapid2 {
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 80%;
+  background-color: rgb(75, 191, 137);
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+#mapid {
+  height: 500px;
+  background-color: rgb(250, 250, 250);
+
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+

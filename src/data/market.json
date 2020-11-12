@@ -1,0 +1,6 @@
+[
+{"rank" :1,"img" : "img/1.jpg", "name" : "Lidl", "position" : [47.755, 7.29], "category" : "grande surface", "releaseDate" :2009,"address" : "1 rue de la République", "copiesSold" : "201 millions", "rate" :5},
+{"rank" :2,"img" : "img/2.jpg", "name" : "Carrefour", "position" : [47.76, 7.28], "category" : "RAS", "releaseDate" :1984,"address" : "1 rue de la République", "copiesSold" : "170 millions", "rate" :5},
+{"rank" :6,"img" : "img/16.jpg", "name" : "Teranimo", "position" : [47.765, 7.29], "category" : "RAS", "releaseDate" :2011,"address" : "1 rue de la République", "copiesSold" : "30 millions", "rate" :4}
+
+    ]
